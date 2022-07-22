@@ -26,4 +26,14 @@ const Tirthak = {
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=TirthakBM&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=TirthakBM&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+<br>
+
 ![animation_500_kxa883sd](https://user-images.githubusercontent.com/97222016/180516985-ca8adff3-aeb7-49a4-9f67-8af079d3c275.gif)
