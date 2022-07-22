@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
+<h1 align="center">Hi 👋, I'm Tirthak </h1>
 <h3 align="center">Student at Patkar.</h3>
 
 - 📫 How to reach me **tirthakbm123@gmail.com**
