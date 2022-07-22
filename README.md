@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tirthak </h1>
 <h3 align="center">Student at Patkar.</h3>
-
 - 📫 How to reach me **tirthakbm123@gmail.com**
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tirthak-majalkar-28885622a/" target="blank"><img align="center"
@@ -20,7 +17,7 @@
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
-<br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
@@ -77,11 +74,6 @@ const Tirthak = {
 };
 ```
 </br></br>
-<h2>💻 Some stats 💻</h2>
-
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=TirthakBM&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<br>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
