@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
+<h3 align="center">Student at Patkar.</h3>
+
+- 📫 How to reach me **tirthakbm123@gmail.com**
+
 ```javascript
 const Tirthak = {
     pronouns: "He" | "Him",
