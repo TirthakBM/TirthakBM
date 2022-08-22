@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tirthak </h1>
 <h3 align="center">Student at Patkar.</h3>
-- 📫 How to reach me **tirthakbm123@gmail.com**
+- 📫 How to reach me - tirthakbm123@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tirthak-majalkar-28885622a/" target="blank"><img align="center"
