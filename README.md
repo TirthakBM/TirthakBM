@@ -90,11 +90,7 @@ const Tirthak = {
 
 # 
 
-
 [![Tirthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirthakBM&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/AadrianLeo/github-readme-stats)
 
 #
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TirthakBM&show_icons=true)
-#
